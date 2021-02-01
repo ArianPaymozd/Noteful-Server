@@ -26,6 +26,7 @@
     "morgan": "^1.10.0",
     "pg": "^8.5.1",
     "postgrator": "^4.1.1",
+    "postgrator-cli": "^4.0.0",
     "winston": "^3.3.3",
     "xss": "^1.0.8",
     "xxs": "0.0.1"
@@ -34,7 +35,6 @@
     "chai": "^4.2.0",
     "mocha": "^8.2.1",
     "nodemon": "^2.0.7",
-    "postgrator-cli": "^3.3.0",
     "supertest": "^6.0.1"
   }
 }
